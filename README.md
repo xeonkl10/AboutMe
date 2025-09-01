@@ -4,6 +4,21 @@
 <br>
 <div align="center">
 
+<div>
+  <div align="center">
+    <img src="./2c4542649a439792ce53f5e2cdcb4aff.jpg" align="right" width="170" height="270">
+
+<dl>
+    <dt align="left"><strong>Name:</strong></dt>
+    <dd align="left">Iron Man</dd>
+    <dt align="left">Loves:</dt>
+    <dd align="left">Anime, Manga, Games</dd>
+    <dt align="left">Hobbies:</dt>
+    <dd align="left">Coding,
+      Gaming,
+      Reading</dd>
+</dl>
+
 <div align="center"> 
   <a href="mailto:orgxeon@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red&logoWidth=20" />
