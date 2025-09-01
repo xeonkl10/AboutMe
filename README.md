@@ -7,7 +7,7 @@
 
 <div>
   <div align="center">
-    <img src="./504eaa5af269cebe365c58f11cebe49e.jpg" align="right" width="170" height="270">
+    <img src="./e1b2e8bcc19899cdb71a44e8f2556fe1.jpg" align="right" width="170" height="270">
 </div>
   
 <dl>
