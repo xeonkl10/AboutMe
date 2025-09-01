@@ -6,7 +6,7 @@
 
 <div>
   <div align="center">
-    <img src="./2c4542649a439792ce53f5e2cdcb4aff.jpg" align="right" width="170" height="270">
+    <img src="./504eaa5af269cebe365c58f11cebe49e.jpg" align="right" width="170" height="270">
 
 <dl>
     <dt align="left"><strong>Name:</strong></dt>
