@@ -1,4 +1,4 @@
-![Aswin Sparky's card name](https://your-card-service.vercel.app/api?name=XEON+KL10&description=+%C9%AA+%E1%B4%8D%E1%B4%80%E1%B4%8B%E1%B4%87+%E1%B4%9B%CA%9C%C9%AA%C9%B4%C9%A2s.+%C9%AA+%CA%99%CA%80%E1%B4%87%E1%B4%80%E1%B4%8B+%E1%B4%9B%CA%9C%C9%AA%C9%B4%C9%A2s.+%C9%AA+%E1%B4%8D%E1%B4%80%E1%B4%8B%E1%B4%87+%E1%B4%9B%CA%9C%C9%AA%C9%B4%C9%A2s+%E1%B4%9B%CA%9C%E1%B4%80%E1%B4%9B+%CA%99%CA%80%E1%B4%87%E1%B4%80%E1%B4%8B+%E1%B4%9B%CA%9C%C9%AA%C9%B4%C9%A2s&image=https%3A%2F%2Favatars.githubusercontent.com%2Fxeonkl10&backgroundColor=%23ecf0f1&instagram=xeonkl10&linkedin=HRITHIK+-+XEON&github=xeonkl10&pattern=leaf&colorPattern=%23eaeaea)
+![Xeon KL10's card name](https://your-card-service.vercel.app/api?name=XEON+KL10&description=+%C9%AA+%E1%B4%8D%E1%B4%80%E1%B4%8B%E1%B4%87+%E1%B4%9B%CA%9C%C9%AA%C9%B4%C9%A2s.+%C9%AA+%CA%99%CA%80%E1%B4%87%E1%B4%80%E1%B4%8B+%E1%B4%9B%CA%9C%C9%AA%C9%B4%C9%A2s.+%C9%AA+%E1%B4%8D%E1%B4%80%E1%B4%8B%E1%B4%87+%E1%B4%9B%CA%9C%C9%AA%C9%B4%C9%A2s+%E1%B4%9B%CA%9C%E1%B4%80%E1%B4%9B+%CA%99%CA%80%E1%B4%87%E1%B4%80%E1%B4%8B+%E1%B4%9B%CA%9C%C9%AA%C9%B4%C9%A2s&image=https%3A%2F%2Favatars.githubusercontent.com%2Fxeonkl10&backgroundColor=%23ecf0f1&instagram=xeonkl10&linkedin=HRITHIK+-+XEON&github=xeonkl10&pattern=leaf&colorPattern=%23eaeaea)
 </p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=A-S-W-I-N-S-P-A-R-K-Y&label=Profile%20views" alt="A-S-W-I-N-S-P-A-R-K-Y" style="width: 150px;" />
@@ -6,10 +6,10 @@
 </br>
 
 <div align="center"> 
-  <a href="mailto:sparkymon777@gmail.com">
+  <a href="mailto:orgxeon@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://wa.me/917012984396" target="_blank">
+  <a href="https://wa.me/9170000000000" target="_blank">
     <img src="https://img.shields.io/badge/whatsapp-008000?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank" />
   </a>
   <a href="https://instagram.com/sparky.drip" target="_blank">
