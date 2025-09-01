@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://wa.me/91000000000" target="_blank">
-    <img src="https://img.shields.io/badge/whatsapp-008000?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank" />
+    <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff&logoWidth=20" target="_blank" />
   </a>
   <a href="https://instagram.com/sparky.drip" target="_blank">
      <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
