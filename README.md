@@ -6,7 +6,7 @@
 
 <div align="center"> 
   <a href="mailto:orgxeon@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red&logoWidth=20" />
   </a>
   <a href="https://wa.me/91000000000" target="_blank">
     <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff&logoWidth=20" target="_blank" />
