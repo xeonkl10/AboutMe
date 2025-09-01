@@ -1,104 +1,93 @@
-# GitHub Profile README Template
+<body>
+  <center>
+<h1 align="center">ð“¦ð“®ð“µð“¬ð“¸ð“¶ð“® ð“½ð“¸ ð“¶ð”‚ ð“Ÿð“»ð“¸ð“¯ð“²ð“µð“®</h1>
+<br>
+<div align="center">
+  
+![Iron Man](./chibi.gif)
 
-Replace the placeholders with your own information:
+<h1 align="center">  ð“ð“«ð“¸ð“¾ð“½ ð“¶ð“® </h1>
+</div>
+<div align="center">
+  <!-- <img src="https://i.imgur.com/jx17oHT.gif"> -->
+</div>
+<div>
+  <div align="center">
+    <img src="./2c4542649a439792ce53f5e2cdcb4aff.jpg" align="right" width="170" height="270">
 
-```markdown
-![Your Name's Card](https://sparkycardview.vercel.app/api?name=YOUR%20NAME&description=YOUR%20DESCRIPTION%20HERE&image=YOUR_GITHUB_AVATAR_URL&backgroundColor=%23ecf0f1&instagram=YOUR_INSTAGRAM&linkedin=YOUR_LINKEDIN&github=YOUR_GITHUB&twitter=YOUR_TWITTER&pattern=leaf&colorPattern=%23eaeaea)
+<dl>
+    <dt align="left"><strong>Name:</strong></dt>
+    <dd align="left">Iron Man</dd>
+    <dt align="left">Loves:</dt>
+    <dd align="left">Anime, Manga, Games</dd>
+    <dt align="left">Hobbies:</dt>
+    <dd align="left">Coding,
+      Gaming,
+      Reading</dd>
+</dl>
+<br>
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31fe2ev5ldx3dlfb5t2qszogktce&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://ironmanff.vercel.app)
+
+
+<div align="center">
+  <h2>ð“›ð“ªð“·ð“°ð“¾ð“ªð“°ð“®ð“¼ ð“ªð“·ð“­ ð“•ð“»ð“ªð“¶ð“®ð”€ð“¸ð“»ð“´ð“¼</h2>
+</div>
+
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20views" alt="YOUR_GITHUB_USERNAME" style="width: 150px;" />
+  <img src="https://neonicons.ironman.my.id/icon/javascript?size=37" alt="JavaScript" />
+  <img src="https://neonicons.ironman.my.id/icon/typescript?size=37" alt="Typescript" />
+  <img src="https://neonicons.ironman.my.id/icon/python?size=37" alt="Python" />
+  <img src="https://neonicons.ironman.my.id/icon/ruby?size=37&fek=5" alt="Ruby" />
+  <img src="https://neonicons.ironman.my.id/icon/php?size=37" alt="PHP" />
+  <img src="https://neonicons.ironman.my.id/icon/bash?size=37" alt="Bash" />
+  <img src="https://neonicons.ironman.my.id/icon/mysql?size=37" alt="MySQL" />
+  <img src="https://neonicons.ironman.my.id/icon/latex?size=37" alt="LaTeX" />
 </p>
-</br>
 
-<div align="center"> 
-  <a href="mailto:YOUR_EMAIL@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://wa.me/YOUR_PHONE_NUMBER" target="_blank">
-    <img src="https://img.shields.io/badge/whatsapp-008000?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank" />
-  </a>
-  <a href="https://instagram.com/YOUR_INSTAGRAM" target="_blank">
-     <img src="https://img.shields.io/badge/instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" />
-  </a>
-</div>
+<p align="center">
+  <img src="https://neonicons.ironman.my.id/icon/express?size=37" alt="Express" />&nbsp;&nbsp;
+  <img src="https://neonicons.ironman.my.id/icon/nextjs?size=37" alt="Next.js" />&nbsp;&nbsp;
+  <img src="https://neonicons.ironman.my.id/icon/react?size=37" alt="React" />&nbsp;&nbsp;
+  <img src="https://neonicons.ironman.my.id/icon/threejs?size=37" alt="Three.js" />&nbsp;&nbsp;
+  <img src="https://neonicons.ironman.my.id/icon/fastify?size=37" alt="Fastify" />
+</p>
 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
-<div align="left">
-  <!-- Programming Languages -->
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html logo" />
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css logo" />
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo" />
-  <img src="https://skillicons.dev/icons?i=typescript" height="40" alt="typescript logo" />
-  <img src="https://skillicons.dev/icons?i=python" height="40" alt="python logo" />
-  <img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo" />
-  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cpp logo" />
-  <img src="https://skillicons.dev/icons?i=matlab" height="40" alt="matlab logo" />
-  
-  <!-- Frameworks -->
-  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo" />
-  <img src="https://skillicons.dev/icons?i=vuejs" height="40" alt="vuejs logo" />
-  <img src="https://skillicons.dev/icons?i=django" height="40" alt="django logo" />
-  <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="bootstrap logo" />
-  
-  <!-- Databases -->
-  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgres logo" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo" />
-  <img src="https://skillicons.dev/icons?i=redis" height="40" alt="redis logo" />
-  
-  <!-- DevOps and Cloud -->
-  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo" />
-  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="aws logo" />
-  <img src="https://skillicons.dev/icons?i=googlecloud" height="40" alt="googlecloud logo" />
-  <img src="https://skillicons.dev/icons?i=heroku" height="40" alt="heroku logo" />
-  <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="vercel logo" />
-  
-  <!-- Tools -->
-  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo" />
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo" />
-  <img src="https://skillicons.dev/icons?i=gitlab" height="40" alt="gitlab logo" />
-  <img src="https://skillicons.dev/icons?i=replit" height="40" alt="replit logo" />
-  
-  <!-- Operating Systems -->
-  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo" />
-  <img src="https://skillicons.dev/icons?i=ubuntu" height="40" alt="ubuntu logo" />
-  <img src="https://skillicons.dev/icons?i=windows" height="40" alt="windows logo" />
-</div>
-
-<br/>
-<hr/>
-
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
-</div>
-
-<hr/>
-
-<h2 align="center">⚡ Stats ⚡</h2>
+<p align="center">
+  <img src="https://neonicons.ironman.my.id/icon/rails?size=37" alt="Rails" />&nbsp;&nbsp;
+  <img src="https://neonicons.ironman.my.id/icon/krakenjs?size=37" alt="Kraken.js" />&nbsp;&nbsp;
+  <img src="https://neonicons.ironman.my.id/icon/nodejs?size=37" alt="Node.js" />&nbsp;&nbsp;
+  <img src="https://neonicons.ironman.my.id/icon/flask?size=37" alt="Flask" />
+</p>
 <br>
-<div align=center>
-  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=YOUR_GITHUB_USERNAME&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=YOUR_GITHUB_USERNAME&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
-  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+<div align="center">
+    <h1> ð“’ð“¸ð“·ð“½ð“ªð“¬ð“½ ð“œð“® </h1>
 </div>
-
-<br/><br/>
-
-<hr/>
-
-<br/>
+<p align='center'>
+  <a href="https://ironmanff.vercel.app"><img src="https://img.shields.io/badge/WEBSITE-2e3440?style=for-the-badge"/></a>
+  <a href="https://instagram.com/sedboy.am"><img src="https://img.shields.io/badge/INSTAGRAM-2e3440?style=for-the-badge"/></a>
+  <a href="https://t.me/IronManOfc"><img src="https://img.shields.io/badge/TELEGRAM-2e3440?style=for-the-badge"/></a>
+    <a href="https://wa.me/4915252819677"><img src="https://img.shields.io/badge/WHATSAPP-2e3440?style=for-the-badge"/></a>
+</p>
+<br>
 
 <div align="center">
-<a href='https://ko-fi.com/YOUR_KOFI_USERNAME' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+    <h1> ð“¢ð“¾ð“¹ð“¹ð“¸ð“»ð“½ ð“œð“® </h1>
+</div>
+<div align="center">
+  <a href="https://www.buymeacoffee.com/ironm4n">
+    <img src="https://i.ibb.co/KNnhcvX/bmc-button.png" alt="Buy Me Coffee" height="60" width="230" style="margin-top: 10px;">
+  </a>
 </div>
 
-<br/>
-```
+
+<br>
+<div align="center">
+    <h1> ð“£ð“±ð“ªð“·ð“´ð“¼ ð“•ð“¸ð“» ð“¡ð“®ð“ªð“­ð“²ð“·ð“° </h1>
+</div>
+<img src="https://count.getloli.com/get/@:IRON-M4N?theme=moebooru" alt="IRON-M4N" />
+
+_______________________
+
+![Animation](https://raw.githubusercontent.com/IRON-M4N/IRON-M4N/output/github-contribution-grid-snake-dark.svg)
