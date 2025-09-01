@@ -1,5 +1,3 @@
-# AboutMe
-
 # GitHub Profile README Template
 
 Replace the placeholders with your own information:
@@ -144,4 +142,36 @@ jobs:
     timeout-minutes: 10
     
     steps:
-      - name: generate sna
+      - name: generate snake.svg
+        uses: Platane/snk/svg-only@v2
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: dist/github-contribution-grid-snake.svg
+          
+      - name: push snake.svg to the output branch
+        uses: crazy-max/ghaction-github-pages@v2.1.3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+### 4. Card Customization Options:
+The card service supports these parameters:
+- `pattern`: dots, leaf, signal, charlie, hideout, temple, brick, diagonal-lines
+- `backgroundColor`: Any hex color
+- `colorPattern`: Pattern overlay color
+
+### 5. Additional Badge Options:
+You can add more social badges:
+```markdown
+<a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+</a>
+<a href="https://twitter.com/YOUR_TWITTER" target="_blank">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank" />
+</a>
+```
+
+Just replace all the placeholders with your actual information and you'll have a professional GitHub profile just like the one you showed me!
